@@ -10,7 +10,7 @@
   - [Image Processing in C++](https://github.com/eurush/Works-1/tree/master/c%2B%2Bworks/Comparision%20of%20Sorting%20Algoritms)
   - [Graphics Library using C++ ](https://github.com/eurush/Works-1/tree/master/c%2B%2Bworks/Term256%20play)
   - [Enlarged text using fileIO](https://github.com/eurush/Works-1/blob/master/c%2B%2Bworks/little_graphics_without_graphics-lib.cpp), [output](https://github.com/eurush/Works-1/blob/master/c%2B%2Bworks/a1.txt)
-- 🔭 Checkout my Computer Simulation projects 
+- 🔭 Checkout my Computer Simulation and Graphics projects 
   - [Fluid Simulation](https://github.com/eurush/Works-1/tree/master/processing_works/Fluid%20Simulation)
   - [ASCII art](https://github.com/eurush/Works-1/tree/master/processing_works/Ascii%20art)
   - [Physics Simulation Projects](https://github.com/eurush/Works-1/tree/master/processing_works/Practice%20projects)
@@ -18,7 +18,10 @@
     - [Text Morphing](https://github.com/eurush/Works-1/tree/master/processing_works/Practice%20projects/Morphing%20Texts) and [Self Assembling Points](https://github.com/eurush/Works-1/tree/master/processing_works/Practice%20projects/Self%20Assembling%20points) using Force vector agents.
   - [Quad Tree](https://github.com/eurush/Works-1/tree/master/processing_works/Practice%20projects/Quad%20Tree)
 - 🔭 Checkout my Competitive Programming Template : Programming [template](https://github.com/eurush/Works-1/tree/master/CPP%20template) frequently used by me
-- 🔭 Checkout my Python : [Chat application using Socket Programming ](https://github.com/eurush/Works-1/tree/master/python%20works)
+- 🔭 Checkout my Python projects : [Chat application using Socket Programming ](https://github.com/eurush/Works-1/tree/master/python%20works)
+- 🔭 Checkout my [AI projects](https://github.com/eurush/Works-1/tree/master/AI%20stuff)
+  -  [Path Finding Agents using Genetic Evolution](https://github.com/eurush/Works-1/tree/master/AI%20stuff/Genetic%20algorithm/pathfinder)
+  -  [Regression from Scratch](https://github.com/eurush/Works-1/tree/master/AI%20stuff/practice%20checkpoints)
 - ⚡ My competitive profiles :[Codeforces(Specialist)](https://codeforces.com/profile/dominique38), [Leetcode](https://leetcode.com/eurush/), [Atcoder(7 Kyu)](https://atcoder.jp/users/dominique38)
 
 <h3 align="left">Connect with me:</h3>
